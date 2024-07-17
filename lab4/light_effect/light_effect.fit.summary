@@ -1,0 +1,10 @@
+Fitter Status : Successful - Tue Jun 18 14:35:23 2024
+Quartus II Version : 9.0 Build 132 02/25/2009 SJ Web Edition
+Revision Name : light_effect
+Top-level Entity Name : light_effect
+Family : FLEX10K
+Device : EPF10K70RC240-4
+Timing Models : Final
+Total logic elements : 108 / 3,744 ( 3 % )
+Total pins : 17 / 189 ( 9 % )
+Total memory bits : 0 / 18,432 ( 0 % )
